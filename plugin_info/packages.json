@@ -1,18 +1,12 @@
 {
-  "pre-install": {
-  },
-  "apt": {
-  },
+  "pre-install": {},
+  "apt": {},
   "pip3": {
-    "pyserial" : {"reinstall" : true},
-    "requests" : {"reinstall" : true}
+    "pyserial": { "reinstall": true },
+    "requests": { "reinstall": true }
   },
-  "npm": {
-  },
-  "yarn": {
-  },
-  "plugin": {
-  },
-  "post-install": {
-  }
+  "npm": {},
+  "yarn": {},
+  "plugin": {},
+  "post-install": {}
 }
