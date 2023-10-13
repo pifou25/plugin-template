@@ -1,5 +1,7 @@
 # Template de plugin pour Jeedom
 
+[![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
+
 Validation PHP Version (branche BETA) :
 
 ![PHP 7.3](https://github.com/jeedom/plugin-template/actions/workflows/lint_Php73.yml/badge.svg?branch=beta)
