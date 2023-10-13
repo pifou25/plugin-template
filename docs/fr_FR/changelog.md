@@ -1,3 +1,10 @@
+# 1.0.0 (2023-10-13)
+
+
+### Features
+
+* **semrel:** Add the Semantic-Release workflow ([0009530](https://github.com/pifou25/plugin-template/commit/00095307ff39b11a1fab700c6332706787af3f1a))
+
 # Changelog plugin template
 
 >**IMPORTANT**
