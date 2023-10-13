@@ -1,5 +1,9 @@
 # Template de plugin pour Jeedom
 
+[![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
+[![Build Master](https://github.com/pifou25/plugin-template/actions/workflows/semantic-release.yml/badge.svg?branch=master)](https://github.com/pifou25/plugin-template/actions/workflows/semantic-release.yml)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/pifou25/plugin-template)
+
 Validation PHP Version (branche BETA) :
 
 ![PHP 7.3](https://github.com/jeedom/plugin-template/actions/workflows/lint_Php73.yml/badge.svg?branch=beta)
@@ -34,3 +38,10 @@ La documentation générale relative à la conception de plugin est consultable 
 
 ---
 Si vous créez une branch nommée prettier, le robot workflows fera une passe complete sur le code pour que le code soit le plus uniforme possible.
+
+### Semantic Release
+
+Ce projet suit la convention [Semantic Release](https://semantic-release.gitbook.io/semantic-release/) pour les messages de commit. 
+Ceci afin de générer automatiquement le changelog et les packages. Le ChangeLog
+ doit être dans docs/fr_FR/changelog.md (et docs/fr_FR/changelog_beta.md pour
+  la branche beta) ; et le numéro de version du plig
