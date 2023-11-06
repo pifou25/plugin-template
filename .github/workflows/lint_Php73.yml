@@ -1,0 +1,15 @@
+on:
+  # Workflows check plugin Jeedom
+  push:
+    branches:
+      - beta
+  pull_request:
+    branches:
+      - beta
+      - master
+      
+name : 'Test Plugin Jeedom'
+
+jobs:
+  php73:
+    uses: jeedom/workflows/.github/workflows/lint_Php73.yml@main
