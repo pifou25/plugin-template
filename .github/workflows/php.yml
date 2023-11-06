@@ -2,7 +2,7 @@ on:
   # Workflows check plugin Jeedom
   push:
     branches:
-      - beta
+      - badges
   pull_request:
     branches:
       - beta
@@ -11,11 +11,5 @@ on:
 name : 'Test Plugin Jeedom'
 
 jobs:
-  codeLintGlobal:
-    uses: jeedom/workflows/.github/workflows/codeLintGlobal.yml@main
-  php73:
-    uses: jeedom/workflows/.github/workflows/lint_Php73.yml@main
-  php74:
-    uses: jeedom/workflows/.github/workflows/lint_Php74.yml@main
   php:
     uses: jeedom/workflows/.github/workflows/php.yml@main

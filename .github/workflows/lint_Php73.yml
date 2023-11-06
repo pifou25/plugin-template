@@ -2,7 +2,7 @@ on:
   # Workflows check plugin Jeedom
   push:
     branches:
-      - beta
+      - badges
   pull_request:
     branches:
       - beta
