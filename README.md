@@ -2,15 +2,15 @@
 
 [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
 
-Validation PHP Version (branche BETA) :
+Validation PHP Version (branche BADGES) :
 
-![PHP 7.3](https://github.com/pifou25/plugin-template/actions/workflows/lint_Php73.yml/badge.svg?branch=beta)
-![PHP 7.4](https://github.com/pifou25/plugin-template/actions/workflows/lint_Php74.yml/badge.svg?branch=beta)
+![PHP 7.3](https://github.com/pifou25/plugin-template/actions/workflows/lint_Php73.yml/badge.svg?branch=badges)
+![PHP 7.4](https://github.com/pifou25/plugin-template/actions/workflows/lint_Php74.yml/badge.svg?branch=badges)
 
-Validation Code int (branche BETA):
+Validation Code int (branche BADGES):
 
-![PHP](https://github.com/pifou25/plugin-template/actions/workflows/php.yml/badge.svg?branch=beta)
-![PHP](https://github.com/pifou25/plugin-template/actions/workflows/codeLintGlobal.yml/badge.svg?branch=beta)
+![PHP](https://github.com/pifou25/plugin-template/actions/workflows/php.yml/badge.svg?branch=badges)
+![PHP](https://github.com/pifou25/plugin-template/actions/workflows/codeLintGlobal.yml/badge.svg?branch=badges)
 
 
 --------
