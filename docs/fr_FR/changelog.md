@@ -10,6 +10,20 @@
 
 * test for workflow ([685e861](https://github.com/pifou25/plugin-template/commit/685e861360b041ddd06b12c840bd9ca55f4c2d5f))
 * test workflow 1.2.0 ([dee7937](https://github.com/pifou25/plugin-template/commit/dee79374a9f82d1490d8baabb0d2927f3fd2028b))
+* workflow 1.3.0 ([583aa1a](https://github.com/pifou25/plugin-template/commit/583aa1abe3df45de424b44fcb3dda46450422186))
+
+# 1.0.0 (2023-11-09)
+
+
+### Bug Fixes
+
+* add semrel-import-data ([3ccb4cc](https://github.com/pifou25/plugin-template/commit/3ccb4cc4e39587f0e32447d5bed849f845b28db0))
+
+
+### Features
+
+* test for workflow ([685e861](https://github.com/pifou25/plugin-template/commit/685e861360b041ddd06b12c840bd9ca55f4c2d5f))
+* test workflow 1.2.0 ([dee7937](https://github.com/pifou25/plugin-template/commit/dee79374a9f82d1490d8baabb0d2927f3fd2028b))
 
 # 1.0.0 (2023-11-09)
 
