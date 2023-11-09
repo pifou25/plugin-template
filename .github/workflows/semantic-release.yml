@@ -44,11 +44,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # vars.env contains the next version number
       - name: Display Github summary
-        if: steps.semantic.outputs.new_release_published == 'true'
+        if: ${{ hashFiles('vars.env') != '' }}
         run: |
-          echo "New release : ${{ steps.semantic.outputs.new_release_version }}" >> $GITHUB_STEP_SUMMARY
-
-    outputs:
-      new-release-published: ${{ steps.release.outputs.new-release-published }}
-      new-release-version: ${{ steps.release.outputs.new-release-version }}
+          OUTPUT=$(cat vars.env)
+          echo "New release : $OUPUT" >> $GITHUB_STEP_SUMMARY
