@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/pifou25/plugin-template/compare/1.0.0...1.0.1) (2023-11-09)
+
+
+### Bug Fixes
+
+* add debug variables ([01d1ba3](https://github.com/pifou25/plugin-template/commit/01d1ba366d6d4d5aa7d32a8abb0e5e3020f36004))
+
 # 1.0.0 (2023-11-09)
 
 
