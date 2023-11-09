@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/pifou25/plugin-template/compare/1.0.3...1.0.4) (2023-11-09)
+
+
+### Bug Fixes
+
+* the github_step_summary ([422080b](https://github.com/pifou25/plugin-template/commit/422080bc1ee8a7ee8188bc82c3573e93236a1451))
+
 ## [1.0.3](https://github.com/pifou25/plugin-template/compare/1.0.2...1.0.3) (2023-11-09)
 
 
