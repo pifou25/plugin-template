@@ -40,10 +40,9 @@ jobs:
               --package=semantic-release-export-data@1 \
               --package=semantic-release@21 \
               semantic-release --extends=jeedom-semrel-plugin-config
+          printenv
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: debug
-        run: printenv
 
       - name: Display Github summary
         if: steps.semantic.outputs.new_release_published == 'true'
