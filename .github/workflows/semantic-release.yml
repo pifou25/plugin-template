@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - master
+      - 1.x.x
+      - 2.x.x
   # this is to manually trigger the worklow
   workflow_dispatch:
     inputs:
