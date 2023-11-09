@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/pifou25/plugin-template/compare/1.0.1...1.0.2) (2023-11-09)
+
+
+### Bug Fixes
+
+* print some debug env variables ([2bcd3bc](https://github.com/pifou25/plugin-template/commit/2bcd3bce73d1dfe086ebd806d5107849ca268402))
+
 ## [1.0.1](https://github.com/pifou25/plugin-template/compare/1.0.0...1.0.1) (2023-11-09)
 
 
