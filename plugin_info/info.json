@@ -1,7 +1,7 @@
 {
 	"id" : "template",
 	"name" : "Template",
-	"pluginVersion": "1.0.4",
+	"pluginVersion": "1.0.5",
 	"specialAttributes" : {
 		"object" : {
 			"toto" : {"name" : {"fr_FR" : "Plop je suis un attribut spécial"},"type" : "input"},

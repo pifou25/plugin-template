@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/pifou25/plugin-template/compare/1.0.4...1.0.5) (2023-11-09)
+
+
+### Bug Fixes
+
+* the output variable name for GH summary ([ca88e7e](https://github.com/pifou25/plugin-template/commit/ca88e7e035249fdfd64af2d6d09c925a70cfec97))
+
 ## [1.0.4](https://github.com/pifou25/plugin-template/compare/1.0.3...1.0.4) (2023-11-09)
 
 
