@@ -45,3 +45,5 @@ Ce projet suit la convention [Semantic Release](https://semantic-release.gitbook
 Ceci afin de générer automatiquement le changelog et les packages. Le ChangeLog
  doit être dans docs/fr_FR/changelog.md (et docs/fr_FR/changelog_beta.md pour
   la branche beta) ; et le numéro de version du plig
+
+feat: test pour release 1.1.0
