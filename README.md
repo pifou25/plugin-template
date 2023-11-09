@@ -46,4 +46,4 @@ Ceci afin de générer automatiquement le changelog et les packages. Le ChangeLo
  doit être dans docs/fr_FR/changelog.md (et docs/fr_FR/changelog_beta.md pour
   la branche beta) ; et le numéro de version du plig
 
-feat: test pour release 1.2.0
+feat: test pour release 1.3.0
