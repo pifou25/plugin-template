@@ -49,4 +49,4 @@ jobs:
         if: ${{ hashFiles('vars.env') != '' }}
         run: |
           OUTPUT=$(cat vars.env)
-          echo "New release : $OUPUT" >> $GITHUB_STEP_SUMMARY
+          echo "New release : $OUTPUT" >> $GITHUB_STEP_SUMMARY
