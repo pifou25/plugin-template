@@ -1,3 +1,16 @@
+# 1.0.0 (2023-11-09)
+
+
+### Bug Fixes
+
+* regex for the workflow brang name trigger ([5666770](https://github.com/pifou25/plugin-template/commit/56667705311c5a143087d7c52fff06388029594a))
+* remove regex, list maintenance branches ([07fa604](https://github.com/pifou25/plugin-template/commit/07fa6048a18b30eef70fd9d9c70b6d26d7595c49))
+
+
+### Features
+
+* add numbered branches management ([a097bbf](https://github.com/pifou25/plugin-template/commit/a097bbf14576a20508117a06ee4601bb7f9fe33c))
+
 # Changelog plugin template
 
 >**IMPORTANT**
