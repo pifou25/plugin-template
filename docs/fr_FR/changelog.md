@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/pifou25/plugin-template/compare/1.0.2...1.0.3) (2023-11-09)
+
+
+### Bug Fixes
+
+* display the vars.env content ([5317f29](https://github.com/pifou25/plugin-template/commit/5317f295bb8c530424b89e747ead0eaf61e57684))
+
 ## [1.0.2](https://github.com/pifou25/plugin-template/compare/1.0.1...1.0.2) (2023-11-09)
 
 
