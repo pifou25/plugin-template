@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/pifou25/plugin-template/compare/1.0.5...1.1.0) (2023-11-10)
+
+
+### Features
+
+* add commit-check workflow for PR ([956d794](https://github.com/pifou25/plugin-template/commit/956d794fefc2207681d5be98d24a27c868bbbad9))
+
 ## [1.0.5](https://github.com/pifou25/plugin-template/compare/1.0.4...1.0.5) (2023-11-09)
 
 
