@@ -1,3 +1,15 @@
+# 1.0.0-beta.1 (2023-11-12)
+
+
+### Bug Fixes
+
+* add export-data package ([e74e944](https://github.com/pifou25/plugin-template/commit/e74e944b0a8dcf95a5d596c51c69d294841f78c3))
+
+
+### Features
+
+* **semrel:** Add the Semantic-Release workflow ([b146894](https://github.com/pifou25/plugin-template/commit/b1468944ab4814c9d6a69ac32650441c8c9c0353))
+
 # Changelog plugin template
 
 >**IMPORTANT**
