@@ -10,13 +10,9 @@ name: Automatic Build
 on:
   # add here any required branch to trigger the workflow
   push:
-    branches:
-      - master
-      - beta
+    branches: [ master, beta, main, alpha ]
   pull_request_target:
-    branches:
-      - master
-      - beta
+    branches: [ master, beta, main, alpha ]
   # this is to manually trigger the worklow
   workflow_dispatch:
     inputs:
