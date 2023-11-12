@@ -90,3 +90,6 @@ C'est le footer qui indique s'il y a un `BREAKING CHANGE` donnant lieu à une no
 ```
 BREAKING CHANGE: description du changement majeur
 ```
+
+
+... adding feature-1
