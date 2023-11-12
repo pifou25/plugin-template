@@ -1,3 +1,10 @@
+# [1.0.0-beta.3](https://github.com/pifou25/plugin-template/compare/1.0.0-beta.2...1.0.0-beta.3) (2023-11-12)
+
+
+### Bug Fixes
+
+* readme ([a28423e](https://github.com/pifou25/plugin-template/commit/a28423e6111b75ca29fe4274cc1f3062216eeb64))
+
 # [1.0.0-beta.2](https://github.com/pifou25/plugin-template/compare/1.0.0-beta.1...1.0.0-beta.2) (2023-11-12)
 
 
