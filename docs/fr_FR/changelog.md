@@ -1,3 +1,16 @@
+# [1.0.0-beta.4](https://github.com/pifou25/plugin-template/compare/1.0.0-beta.3...1.0.0-beta.4) (2023-11-12)
+
+
+### Bug Fixes
+
+* add export-data package ([2af01ee](https://github.com/pifou25/plugin-template/commit/2af01eefc1aca09a3f5edc50e39e772776e2bcb9))
+* add more trigerring branches ([54e06ce](https://github.com/pifou25/plugin-template/commit/54e06ce7f7f81e48fb2d3a60e9bcc34f75128e2f))
+
+
+### Features
+
+* **semrel:** Add the Semantic-Release workflow ([4abfd4f](https://github.com/pifou25/plugin-template/commit/4abfd4f3b2c87aed6895bc115771d7eded60d569))
+
 # [1.0.0-beta.3](https://github.com/pifou25/plugin-template/compare/1.0.0-beta.2...1.0.0-beta.3) (2023-11-12)
 
 
