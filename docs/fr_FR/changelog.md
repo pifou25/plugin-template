@@ -1,3 +1,10 @@
+# [1.0.0-beta.2](https://github.com/pifou25/plugin-template/compare/1.0.0-beta.1...1.0.0-beta.2) (2023-11-12)
+
+
+### Bug Fixes
+
+* add more trigerring branches ([4ce4b0e](https://github.com/pifou25/plugin-template/commit/4ce4b0ec893b653964c937c14272b405f34986ae))
+
 # 1.0.0-beta.1 (2023-11-12)
 
 
