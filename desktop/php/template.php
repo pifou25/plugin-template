@@ -2,12 +2,12 @@
 if (!isConnect('admin')) {
 	throw new Exception('{{401 - Accès non autorisé}}');
 }
+
 // Déclaration des variables obligatoires
 $plugin = plugin::byId('template');
 sendVarToJS('eqType', $plugin->getId());
 $eqLogics = eqLogic::byType($plugin->getId());
 ?>
-
 <div class="row row-overflow">
 	<!-- Page d'accueil du plugin -->
 	<div class="col-xs-12 eqLogicThumbnailDisplay">
