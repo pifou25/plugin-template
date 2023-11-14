@@ -6,11 +6,13 @@ Validation PHP Version (branche BADGES) :
 
 ![PHP 7.3](https://github.com/pifou25/plugin-template/actions/workflows/lint_Php73.yml/badge.svg?branch=badges)
 ![PHP 7.4](https://github.com/pifou25/plugin-template/actions/workflows/lint_Php74.yml/badge.svg?branch=badges)
+![PHP 8.0](https://github.com/pifou25/plugin-template/actions/workflows/php80.yml/badge.svg?branch=badges)
+![PHP 8.1](https://github.com/pifou25/plugin-template/actions/workflows/php81.yml/badge.svg?branch=badges)
 
 Validation Code int (branche BADGES):
 
-![PHP](https://github.com/pifou25/plugin-template/actions/workflows/php.yml/badge.svg?branch=badges)
-![PHP](https://github.com/pifou25/plugin-template/actions/workflows/codeLintGlobal.yml/badge.svg?branch=badges)
+![Lint1](https://github.com/pifou25/plugin-template/actions/workflows/php.yml/badge.svg?branch=badges)
+![Lint2](https://github.com/pifou25/plugin-template/actions/workflows/codeLintGlobal.yml/badge.svg?branch=badges)
 
 
 --------
@@ -18,11 +20,13 @@ Validation PHP Version (branche MASTER) :
 
 ![PHP 7.3](https://github.com/pifou25/plugin-template/actions/workflows/lint_Php73.yml/badge.svg?branch=master)
 ![PHP 7.4](https://github.com/pifou25/plugin-template/actions/workflows/lint_Php74.yml/badge.svg?branch=master)
+![PHP 8.0](https://github.com/pifou25/plugin-template/actions/workflows/php80.yml/badge.svg?branch=master)
+![PHP 8.1](https://github.com/pifou25/plugin-template/actions/workflows/php81.yml/badge.svg?branch=master)
 
 Validation Code int (branche MASTER):
 
-![PHP](https://github.com/pifou25/plugin-template/actions/workflows/php.yml/badge.svg?branch=master)
-![PHP](https://github.com/pifou25/plugin-template/actions/workflows/codeLintGlobal.yml/badge.svg?branch=master)
+![Lint1](https://github.com/pifou25/plugin-template/actions/workflows/php.yml/badge.svg?branch=master)
+![Lint2](https://github.com/pifou25/plugin-template/actions/workflows/codeLintGlobal.yml/badge.svg?branch=master)
 
 Ce "template de plugin" sert de base à la réalisation de plugins pour **Jeedom**.
 
