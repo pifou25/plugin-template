@@ -1,15 +1,24 @@
 on:
-  # Workflows check plugin Jeedom
+  # manual trigger
+  workflow_call:
   push:
     branches:
-      - badges
+    - badges
+    # only trigger wihen change php files
+    paths:
+    - "**.php"
   pull_request:
     branches:
-      - beta
-      - master
-      
-name : 'Test Plugin Jeedom'
+    - badges
+    - master
+    # only trigger wihen change php files
+    paths:
+    - "**.php"
+
+name : 'Code Lint Global'
 
 jobs:
   codeLintGlobal:
+    # check official jeedom workflows
+    # https://github.com/jeedom/workflows/tree/main/.github/workflows
     uses: jeedom/workflows/.github/workflows/codeLintGlobal.yml@main

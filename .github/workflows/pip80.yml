@@ -1,0 +1,32 @@
+on:
+  # manual trigger
+  workflow_call:
+  push:
+    branches:
+    - badges
+    # only trigger wihen change php files
+    paths:
+    - "**.php"
+  pull_request:
+    branches:
+    - badges
+    - master
+    # only trigger wihen change php files
+    paths:
+    - "**.php"
+
+name : 'PHP 8.0'     
+jobs:
+  run-linters:
+    name: PHP8.0
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v4
+
+      - name: PHP syntax checker 8
+        # https://github.com/PrestaShopCorp/github-action-php-lint
+        uses: prestashop/github-action-php-lint/8.0@v2
+        with:
+          folder-to-exclude: "! -path \"./3rdparty/*\" ! -path \"./vendor/*\""
