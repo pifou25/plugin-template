@@ -27,6 +27,6 @@ jobs:
 
       - name: PHP syntax checker 8
         # https://github.com/PrestaShopCorp/github-action-php-lint
-        uses: prestashop/github-action-php-lint/8.0@v2
+        uses: prestashop/github-action-php-lint/8.0@v1
         with:
           folder-to-exclude: "! -path \"./3rdparty/*\" ! -path \"./vendor/*\""
